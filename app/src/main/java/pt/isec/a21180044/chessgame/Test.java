@@ -5,4 +5,5 @@ package pt.isec.a21180044.chessgame;
  */
 
 public class Test {
+    private int cenas;
 }
