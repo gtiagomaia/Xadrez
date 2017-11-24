@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">ChessGame</string>
+    <string name="ChessGame">Xadrez</string>
+    <string name="title_activity_em_jogo">EmJogo</string>
 </resources>
