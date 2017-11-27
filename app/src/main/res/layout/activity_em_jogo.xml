@@ -927,12 +927,12 @@
             android:background="@mipmap/ic_launcher_round" />
 
         <TextView
-            android:id="@+id/nomejogador1"
+            android:id="@+id/Jogador1"
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
             android:layout_gravity="center_vertical"
             android:layout_marginStart="10dp"
-            android:text="Jogador1 Manuel Jaquim"
+            android:text="Jogador1"
             android:textColor="@color/white"
             android:textSize="14sp" />
 

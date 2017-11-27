@@ -1,5 +1,6 @@
 package pt.isec.a21180044.chessgame.Classes;
 
+import pt.isec.a21180044.chessgame.Classes.Pecas.Peca;
 import pt.isec.a21180044.chessgame.Enums.Cor;
 
 /**

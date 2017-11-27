@@ -2,4 +2,19 @@
     <string name="app_name">ChessGame</string>
     <string name="ChessGame">Xadrez</string>
     <string name="title_activity_em_jogo">EmJogo</string>
+    <string name="cannot">Cannot</string>
+
+
+    <string name="dialog_changenickname">Change your nickname</string>
+    <string name="dialog_changepicture_title">Change profile picture</string>
+    <string-array name="dialog_changepicture_choices">
+        <item>Take a picture</item>
+        <item>From gallery</item>
+    </string-array>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="messageExit">Do you really want to exit?</string>
+
 </resources>

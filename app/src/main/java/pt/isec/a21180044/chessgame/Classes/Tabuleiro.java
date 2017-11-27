@@ -1,9 +1,7 @@
 package pt.isec.a21180044.chessgame.Classes;
 
-import android.widget.ImageView;
-
+import pt.isec.a21180044.chessgame.Classes.Pecas.Peca;
 import pt.isec.a21180044.chessgame.Enums.*;
-import pt.isec.a21180044.chessgame.R;
 
 
 /**
